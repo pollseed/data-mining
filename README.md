@@ -17,8 +17,7 @@ data-mining
 * Numpy
 * Matplotlib
 
-python data mining project 
-
+## Summary
 このプロジェクトでは、基本的にデータマイニングに関することをアップします。
 
 今回、データマイニングの一環として、データを分析したり図に起こしたりするプロジェクトを作成。
