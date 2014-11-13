@@ -1,5 +1,6 @@
 data-mining
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/pollseed/data-mining?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Required ??
 
