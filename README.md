@@ -1,6 +1,22 @@
 data-mining
 ===========
 
+## Required ??
+
+### OS
+* Mac
+ 
+### Editor
+* Vim
+
+### Lang
+* Python 2.7
+ 
+### Library
+* SciPy
+* Numpy
+* Matplotlib
+
 python data mining project 
 
 このプロジェクトでは、基本的にデータマイニングに関することをアップします。
