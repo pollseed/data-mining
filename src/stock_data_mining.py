@@ -1,3 +1,4 @@
+import scipy as sp
 import matplotlib.pyplot as plt
 
 # 株情報8/10〜10/10までのやつを取得して分布させてみる
