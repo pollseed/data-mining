@@ -14,9 +14,13 @@ data-mining
 * Python 2.7
  
 ### Library
-* SciPy
-* Numpy
-* Matplotlib
+* Numpy 1.8.0
+* Nose 1.3.0
+* SciPy 0.13.2
+* Pandas 0.12.0
+* DateUtil 2.2
+* Matplotlib 1.3.1
+* Scikit-learn 0.15.2
 
 ## Summary
 このプロジェクトでは、基本的にデータマイニングに関することをアップします。
